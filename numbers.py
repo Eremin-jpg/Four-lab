@@ -8,3 +8,4 @@ sum2 = n3 + n4
 result = sum1 / sum2
 
 print(f"The result is: {result:.2f}")
+

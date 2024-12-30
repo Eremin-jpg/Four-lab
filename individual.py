@@ -8,3 +8,4 @@ side = sqrt(((a - b) / 2) ** 2 + h ** 2)
 perimeter = a + b + 2 * side
 
 print(f"Perimeter: {perimeter:.2f}")
+
